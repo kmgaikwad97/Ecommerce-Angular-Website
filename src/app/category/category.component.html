@@ -1,0 +1,10 @@
+<div class="panel-group category-products" id="accordian"><!--category-productsr-->
+
+    <div class="panel panel-default" *ngFor="let ans of result">
+        <div class="panel-heading">
+            <h4 class="panel-title"><a href="#" (click)="filter_category(ans.id,$event)">{{ans.title}},{{ans.id}}</a></h4>
+        </div>
+    </div>
+
+
+</div><!--/category-products-->

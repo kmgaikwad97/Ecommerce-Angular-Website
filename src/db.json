@@ -1,0 +1,19 @@
+{
+    "category": [
+      { "id": 1, "title": "Category1" },
+      { "id": 2, "title": "Category2" },
+      { "id": 3, "title": "Category3" }
+    ],
+    "brand": [
+      { "id": 1, "title": "Brand1" },
+      { "id": 2, "title": "Brand1" },
+      { "id": 3, "title": "Brand1" }
+    ],
+    "product": [
+        { "id": 1, "price":1000, "discount":20, "img": "https://rukminim2.flixcart.com/image/580/696/kcp4osw0/t-shirt/m/j/s/xxl-171a-eppe-original-imaftryechsgjsp4.jpeg?q=50","title":"Product 1", "categoryid":1 },
+        { "id": 2, "price":2000, "discount":20, "img": "https://rukminim2.flixcart.com/image/580/696/kcp4osw0/t-shirt/m/j/s/xxl-171a-eppe-original-imaftryechsgjsp4.jpeg?q=50","title":"Product 2", "categoryid":1 },
+        { "id": 3, "price":3000, "discount":20, "img": "https://rukminim2.flixcart.com/image/580/696/kcp4osw0/t-shirt/m/j/s/xxl-171a-eppe-original-imaftryechsgjsp4.jpeg?q=50","title":"Product 3","categoryid":1 },
+        { "id": 3, "price":3000, "discount":20, "img": "https://rukminim2.flixcart.com/image/580/696/kcp4osw0/t-shirt/m/j/s/xxl-171a-eppe-original-imaftryechsgjsp4.jpeg?q=50","title":"Product 3","categoryid":2 },
+        { "id": 3, "price":3000, "discount":20, "img": "https://rukminim2.flixcart.com/image/580/696/kcp4osw0/t-shirt/m/j/s/xxl-171a-eppe-original-imaftryechsgjsp4.jpeg?q=50","title":"Product 3","categoryid":3 }
+    ]
+  }
